@@ -1,4 +1,4 @@
-This is the first half a full year project completed in the third year of univercity.
+# This is the first half a full year project completed in the third year of univercity.
 
 It focuses on visualising the america's cup. The two .jar files that make up this repo 
 are a snap shot of the full year porject at the time of the america's cup in june. They 
